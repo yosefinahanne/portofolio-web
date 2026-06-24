@@ -1,0 +1,20 @@
+  [
+    {
+        "title": "Stair Climbing Robot",
+        "year": "2025",
+		"partner": "Kelompok 4 RE-2A",
+        "role": "Robotic",
+        "description": "Developed an autonomous stair-climbing robot (SALSATRON) integrated with ultrasonic sensors and a dual lead-screw lifting mechanism. Achieved stable vertical mobility and accurate obstacle detection.",
+        "image": "images/project2.jpeg",
+        "link": "https://youtube.com/shorts/7Q2Id0NDw0M?feature=shared"
+    },
+    {
+        "title": "Automated Parking Information System Prototype",
+        "year": "2024",
+        "partner": "Kelompok 1 RE-2A",
+        "role": "IoT Firmware Developer",
+        "description": "An IoT-based automated parking prototype that detects space availability and manages entry/exit gates in real-time to optimize parking management efficiency.",
+        "image": "images/project3.jpg",
+        "link": "https://youtu.be/20Cq8qPUUM8?si=msFomNZkvPCc7LgX"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "company": "PT Kereta Api Indonesia DAOP 4",
+        "logo": "images/kai-logo.png",
+        "position": "Facilities Maintenance Staff (Intern)",
+        "year": "Jan 2022 - June 2022",
+        "description": "Supported the maintenance of railway electrical systems. Conducted inspections and troubleshooting to ensure operational reliability, and contributed to improving safety standards and maintenance efficiency."
+    },
+    {
+        "company": "UKM SPORT POLINES",
+        "logo": "images/sport-logo.jpeg",
+        "position": "Deputy Division Head",
+        "year": "2024 - 2025",
+        "description": "Managed and facilitated the development of POLINES students' interests and talents in sports. Coordinated 15 internal staff and systematically managed routine training schedules for nine sports divisions."
+    },
+    {
+        "company": "Audio Visual Sendangguwo (AVISA)",
+        "logo": "images/avisa-logo.jpg",
+        "position": "Facilities & Infrastructure Staff",
+        "year": "2025 - 2028",
+        "description": "Responsible for preventive and corrective maintenance of church facilities to ensure operational readiness, particularly for audio and visual equipment. Conducted routine inspections of infrastructure and electrical components, and managed inventory and maintenance records to ensure all equipment is properly maintained."
+    }
+]
+	

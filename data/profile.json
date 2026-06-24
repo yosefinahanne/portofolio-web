@@ -1,0 +1,31 @@
+{
+    "name": "Yosefina Hanni Elyada",
+    "description": "Dedicated Electrical Engineering student with a strong passion for IoT and embedded systems. Proficient in C++ programming with hands-on experience in microcontroller development (ESP32/ESP8266) and control logic integration. Proven track record in executing applied projects, including sensor integration and automated system design. Committed to exploring emerging IoT trends and leveraging technical expertise to deliver innovative, real-world solutions.",
+    "profileImage": "images/propil.jpeg",
+    "email": "yosefinahanni2505@gmail.com",
+    "phone": "+62 (895) 6050-57655 ",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/ysfnhan_"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/yosefinahanne"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Microcontroller & Embedded Systems", "icon": "fas fa-microchip", "level": 85},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 85},
+        {"name": "Industrial Automation & Control", "icon": "fas fa-industry", "level": 80},
+		{"name": "Hardware & PCB Design", "icon": "fas fa-memory", "level": 85},
+        {"name": "C/C++ Firmware Programming", "icon": "fas fa-code", "level": 90},
+        {"name": "Sensor & Actuator Integration", "icon": "fas fa-plug", "level": 88},
+        {"name": "Fuzzy Logic & Control Algorithms", "icon": "fas fa-brain", "level": 80}
+    ]
+}
