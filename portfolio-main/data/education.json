@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMK Negeri 4 Semarang",
+		"logo": "images/smk4-logo.jpg",
+        "major": "Electrical Engineering Department",
+        "year": "2020 - 2023",	
+        "description": "graduated with honors"
+    },
+	{
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Electrical Engineering Department",
+        "year": "2023-Now",
+        "description": "Electrical Engineering student focusing on Embedded Systems and IoT development, Experienced in microcontroller programming (ESP32/ESP8266)"
+    }
+]
